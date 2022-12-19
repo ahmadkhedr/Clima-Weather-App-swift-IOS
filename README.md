@@ -5,7 +5,9 @@
 A Weather app using Openweathermap.org APIs. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
 
 ![Screenshot1](Documentation/screenshot1.png)
+
 ![screenshot2](Documentation/screenshot2.png)
+
 ![screenshot3](Documentation/screenshot3.png)
 
 
